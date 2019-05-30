@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Stand_D_-10",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 4,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "55cabd3a-ee60-4166-b73c-d7df8ec7dcba"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "bf4f00f5-deb3-421f-9543-8ee91994391d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f931c792-8b60-4ed3-8068-e382d35fbbdb"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "218488f3-33c8-462d-8812-90c0fc1ca6cc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

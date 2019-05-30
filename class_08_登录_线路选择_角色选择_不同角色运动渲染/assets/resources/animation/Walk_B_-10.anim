@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Walk_B_-10",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "293512e2-c3c4-42f6-a508-f8cf563888c7"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "f6ab8733-8afe-41b8-bb82-55eeb1586ef7"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "8edf232d-559f-4e6d-866a-f1a7a7039e98"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "cc2a941a-b562-4930-86b1-604f62f77d43"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "c5cbdebb-fe99-41f5-a7c5-e5ab033b3cb0"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "2f9c7859-fd06-4fe3-917c-84036beadf16"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

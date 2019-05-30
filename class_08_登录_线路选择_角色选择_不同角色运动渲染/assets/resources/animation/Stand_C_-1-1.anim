@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Stand_C_-1-1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 4,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bcae6d45-a23b-410e-8e46-147d9adba9f1"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "2d653797-75de-49c3-90b3-d560958a5e37"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "e3339424-fb5f-435a-82d8-975ed646a300"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "2403fd1e-8b69-4b55-9835-77ea546169c5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
